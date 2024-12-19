@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vinay Kiran Reddy Chinnakondu
-- 👀 I’m interested in Data Science, Machine Learning, Generative AI and Large Language Models
+- 👀 I’m interested in Data Science, Machine Learning and Generative AI
 - 🌱 I'm an expert in Data Analysis, Machine Learning and Deep Learning
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 You can reach me through mail (vinaykiran0404@gmail.com) and LinkedIn ([Vinay Kiran Reddy Chinnakondu](https://www.linkedin.com/in/vinay1819/))
