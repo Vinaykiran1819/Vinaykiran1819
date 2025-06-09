@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Vinay Kiran Reddy Chinnakondu
-- 🌱 I'm an expert in Data Analysis, Machine Learning and Deep Learning
+- 👋 Hi, I’m Vinay Kiran
+- 🌱 I'm an expert in Data Analysis and Machine Learning
 - 💞️ I’m looking to collaborate on data analysis projects
 - 📫 You can reach me through mail (vinaykiran0404@gmail.com) and LinkedIn ([Vinay Kiran Reddy Chinnakondu](https://www.linkedin.com/in/vinay1819/))
 - 😄 Pronouns: He/Him/His
