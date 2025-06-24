@@ -12,7 +12,7 @@
 I'm a Data Professional with 3+ years of experience in **Data Analytics/Visualization**, **Machine Learning**, and **Statistical Analysis**. My passion lies in leveraging cutting-edge technology to build robust, scalable AI solutions. I thrive on architecting systems that solve real-world business problems.
 
 - 🌱 I'm currently diving deep into the world of **Generative AI** and its applications.
-- 💬 Ask me about anything related to **MLOps, Deep Learning, or building models from scratch**.
+- 💬 Ask me about anything related to **Machine Learning, Deep Learning, or building models from scratch**.
 - 📫 You can reach me at **vinaykiran0404@gmail.com**.
 -  Pronouns: **He/Him/His**.
 
