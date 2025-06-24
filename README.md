@@ -1,8 +1,8 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1 align="center">Hi there, I'm Vinay Kiran 👋</h1>
-  <h3 align="center">A Passionate AI Solutions Architect transforming data into intelligent applications.</h3>
+  <h1 align="left">Hi there, I'm Vinay Kiran 👋</h1>
+  <h3 align="left">A Passionate AI Solutions Architect transforming data into intelligent applications.</h3>
 </div>
 
 ---
@@ -51,15 +51,14 @@ I am actively looking for collaborators on projects involving the development an
 
 ### 🏅 Certifications:
 
+Here are some of the key certifications that validate my expertise:
+
 <p align="left">
   <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Data%20Scientist%20Associate-0078D4?style=for-the-badge&logo=microsoftazure" alt="Azure Data Scientist Associate"/>
   <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure" alt="Azure AI Fundamentals"/>
   <img src="https://img.shields.io/badge/DeepLearning.AI-NLP%20Specialization-0056D2?style=for-the-badge&logoColor=white" alt="NLP Specialization"/>
   <img src="https://img.shields.io/badge/LangChain%20Academy-LangGraph-439934?style=for-the-badge&logoColor=white" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/HackerRank-Advanced%20SQL-2EC866?style=for-the-badge&logoColor=white" alt="Advanced SQL"/>
   <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Essentials-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner Essentials"/>
-  <img src="https://img.shields.io/badge/Alteryx-Foundation-00A8E1?style=for-the-badge" alt="Alteryx Foundation"/>
-  <img src="https://img.shields.io/badge/LinkedIn%20Learning-Flask-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Flask Certification"/>
 
   <img src="https://img.shields.io/badge/In%20Progress-Azure%20AI%20Engineer-F7B22A?style=for-the-badge&logo=microsoftazure" alt="Azure AI Engineer in Progress"/>
 </p>
