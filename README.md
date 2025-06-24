@@ -54,6 +54,34 @@ I am actively looking to collaborate on innovative projects involving the develo
 
 Here are some of the key certifications that validate my expertise:
 
+### 🏅 My Certifications:
+
+Here are some of the key certifications that validate my expertise:
+
+<p align="left">
+
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/VinayKiranReddyChinnakondu-4856/24E1902972E0887D?sharingId=7A7B978C4DC8938A" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Data%20Scientist%20Associate-0078D4?style=for-the-badge&logo=microsoftazure" alt="Azure Data Scientist Associate"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/VinayKiranReddyChinnakondu-4856/8F827CC5C1765E9A?sharingId=7A7B978C4DC8938A" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure" alt="Azure AI Fundamentals"/>
+  </a>
+
+  <a href="PASTE_YOUR_NLP_SPECIALIZATION_LINK_HERE" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/DeepLearning.AI-NLP%20Specialization-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="NLP Specialization"/>
+  </a>
+  
+  <a href="https://coursera.org/share/d131ee3f0f8ce3174be59ab1c91d43d5" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LangChain%20Academy-LangGraph-439934?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
+  </a>
+  
+  <a href="PASTE_YOUR_AWS_CLOUD_PRACTITIONER_LINK_HERE" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Essentials-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner Essentials"/>
+  </a>
+
+</p>
+
 <p align="left">
   <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Data%20Scientist%20Associate-0078D4?style=for-the-badge&logo=microsoftazure" alt="Azure Data Scientist Associate"/>
   <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure" alt="Azure AI Fundamentals"/>
