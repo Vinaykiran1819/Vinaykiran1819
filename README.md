@@ -2,21 +2,23 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h2 align="center">Hi there, I'm Vinay Kiran 👋</h2>
-  <h3 align="center">A Passionate AI Solutions Architect transforming data into intelligent applications.</h3>
+  <h3 align="center">A Passionate Data Analyst transforming data into actionable insightss.</h3>
 </div>
 
 ---
 
 ### 👨‍💻 About Me:
 
-I'm a Data Professional with 3+ years of experience in **Data Analytics/Visualization**, **Machine Learning**, and **Statistical Analysis**. My passion lies in leveraging cutting-edge technology to build robust, scalable AI solutions. I thrive on architecting systems that solve real-world business problems.
+I'm a Data Professional with 3+ years of experience in **Data Analytics/Visualization**, **Machine Learning**, and **Statistical Analysis**. My passion lies in leveraging cutting-edge technologies to build robust, scalable AI solutions. I thrive on architecting systems that solve real-world business problems.
 
-- 🌱 I'm currently diving deep into the world of **Generative AI** and its applications.
-- 💬 Ask me about anything related to **Machine Learning, Deep Learning, or building models from scratch**.
+- 🌱 I'm currently diving deep into the world of **Generative AI** and building LLM applications.
+- 💬 Ask me about anything related to **Machine Learning, Deep Learning, or building predictive models from scratch**.
+- 💡 I'm always open to discussing the latest trends and breakthroughs in Generative AI. Let's connect and learn together!
 - 📫 You can reach me at **vinaykiran0404@gmail.com**.
--  Pronouns: **He/Him/His**.
+- 👤 Pronouns: **He/Him/His**.
 
 ---
+
 
 ### 🛠️ My Tech Stack:
 
@@ -30,7 +32,6 @@ Here are some of the key technologies and tools I work with:
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original-wordmark.svg" alt="pytorch" width="50" height="50"/></a>
   <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="sql" width="50" height="50"/></a>
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/langchain" alt="langchain" width="50" height="50"/></a>
-  <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/powerbi/powerbi-original.svg" alt="powerbi" width="50" height="50"/></a>
   <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="azure" width="50" height="50"/></a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="50" height="50"/></a>
   
@@ -45,11 +46,11 @@ Here are some of the key technologies and tools I work with:
 
 ### 🤝 Let's Collaborate:
 
-I am actively looking for collaborators on projects involving the development and fine-tuning of **Large Language Model (LLM) applications**. If you're passionate about building the next generation of AI-powered tools, let's connect!
+I am actively looking to collaborate on innovative projects involving the development and fine-tuning of **Large Language Model (LLM) applications** or **end-to-end data science solutions**. If you're looking for someone who can build AI-powered tools or deliver insightful data solutions, let's have a chat!
 
 ---
 
-### 🏅 Certifications:
+### 🏅 My Certifications:
 
 Here are some of the key certifications that validate my expertise:
 
@@ -65,11 +66,12 @@ Here are some of the key certifications that validate my expertise:
 
 ---
 
-### Find me around the web 🌎:
+### 🌐 Connect With Me:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vinay1819/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="http://vinaykiran-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-20B2AA?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"></a>
+  <a href="https://bento.me/your-username" target="_blank"><img src="https://img.shields.io/badge/Bento-8A48AD?style=for-the-badge&logo=bento&logoColor=white" alt="Bento"/></a>
   <a href="mailto:vinaykiran0404@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
