@@ -13,7 +13,7 @@ I'm a Data Professional with 3+ years of experience in **Data Analytics/Visualiz
 
 - 🌱 I'm currently diving deep into the world of **Generative AI** and building LLM applications.
 - 💬 Ask me about anything related to **Machine Learning, Deep Learning, or building predictive models from scratch**.
-- 💡 I'm always open to discussing the latest trends and breakthroughs in Generative AI. Let's connect and learn together!
+- 💡 I'm always open to discussing the latest trends and breakthroughs in **Generative AI**. Let's connect and learn together!
 - 📫 You can reach me at **vinaykiran0404@gmail.com**.
 - 👤 Pronouns: **He/Him/His**.
 
