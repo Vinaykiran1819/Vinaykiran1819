@@ -41,12 +41,12 @@ Here are some of the key technologies and tools I work with:
 
 ### 🚀 What I'm Currently Working On:
 
-- **Project:** Building an Enterprise-Grade Retrieval-Augmented Generation (RAG) Application.
-- **Objective:** To create a scalable system that leverages large language models for domain-specific question-answering, minimizing hallucinations, and providing grounded responses.
+- **Project:** Building an Enterprise-Grade RAG Application and Agent-based system.
+- **Objective:** Designing a financial risk scoring application using NLP, RAG, and explainable AI methods to provide clear, regulator-friendly credit evaluations.
 
 ### 🤝 Let's Collaborate:
 
-I am actively looking to collaborate on innovative projects involving the development and fine-tuning of **Large Language Model (LLM) applications** or **end-to-end data science solutions**. If you're looking for someone who can build AI-powered tools or deliver insightful data solutions, let's have a chat!
+I am actively looking to collaborate on innovative projects involving the development and fine-tuning of **Large Language Model (LLM) applications** or **end-to-end data science solutions**. If you're looking for someone who can build AI-powered tools or deliver insightful data solutions, let's connect!
 
 ---
 
