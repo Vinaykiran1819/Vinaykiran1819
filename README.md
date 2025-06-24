@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h2 align="center">Hi there, I'm Vinay Kiran 👋</h2>
-  <h3 align="center">A Passionate Data Analyst transforming data into actionable insightss.</h3>
+  <h3 align="center">A Passionate Data Scientist transforming data into actionable insights and building data solutions.</h3>
 </div>
 
 ---
