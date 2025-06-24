@@ -1,8 +1,8 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1 align="left">Hi there, I'm Vinay Kiran 👋</h1>
-  <h3 align="left">A Passionate AI Solutions Architect transforming data into intelligent applications.</h3>
+  <h2 align="center">Hi there, I'm Vinay Kiran 👋</h2>
+  <h3 align="center">A Passionate AI Solutions Architect transforming data into intelligent applications.</h3>
 </div>
 
 ---
