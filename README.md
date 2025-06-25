@@ -50,9 +50,6 @@ I am actively looking to collaborate on innovative projects involving the develo
 
 ---
 
-### 🏅 My Certifications:
-
-Here are some of the key certifications that validate my expertise:
 
 ### 🏅 My Certifications:
 
