@@ -2,17 +2,17 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h2 align="center">Hi there, I'm Vinay Kiran 👋</h2>
-  <h3 align="center">A Passionate Data Scientist transforming data into actionable insights and building data solutions.</h3>
+  <h3 align="center">A Passionate AI Engineer building intelligent solutions and enhancing business processes.</h3>
 </div>
 
 ---
 
 ### 👨‍💻 About Me:
 
-I'm a Data Professional with 3+ years of experience in **Data Analytics/Visualization**, **Machine Learning**, and **Statistical Analysis**. My passion lies in leveraging cutting-edge technologies to build robust, scalable AI solutions. I thrive on architecting systems that solve real-world business problems.
+I'm an AI  Professional with 3+ years of experience in Data and AI/ML. My passion lies in leveraging cutting-edge technologies to build robust, scalable AI solutions. I thrive on architecting systems that solve real-world business problems.
 
 - 🌱 I'm currently diving deep into the world of **Generative AI** and building LLM applications.
-- 💬 Ask me about anything related to **Machine Learning, Deep Learning, or building predictive models from scratch**.
+- 💬 Ask me about anything related to **Machine Learning, Deep Learning, or Gen AI**.
 - 💡 I'm always open to discussing the latest trends and breakthroughs in **Generative AI**. Let's connect and learn together!
 - 📫 You can reach me at **vinaykiran0404@gmail.com**.
 - 👤 Pronouns: **He/Him/His**.
