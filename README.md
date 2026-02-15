@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me:
 
-I'm an AI  Professional with 3+ years of experience in Data and AI/ML. My passion lies in leveraging cutting-edge technologies to build robust, scalable AI solutions. I thrive on architecting systems that solve real-world business problems.
+I'm an AI  Professional with 3+ years of experience in Data and AI/ML. My passion lies in leveraging cutting-edge technologies to build robust, scalable AI solutions. I thrive on architecting systems that solve real-world business problems using AI.
 
 - 🌱 I'm currently diving deep into the world of **Generative AI** and building LLM applications.
 - 💬 Ask me about anything related to **Machine Learning, Deep Learning, or Gen AI**.
@@ -38,11 +38,6 @@ Here are some of the key technologies and tools I work with:
 </p>
 
 ---
-
-### 🚀 What I'm Currently Working On:
-
-- **Project:** Building an Enterprise-Grade RAG Application and Agent-based system.
-- **Objective:** Designing a financial risk scoring application using NLP, RAG, and explainable AI methods to provide clear, regulator-friendly credit evaluations.
 
 ### 🤝 Let's Collaborate:
 
